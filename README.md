@@ -41,7 +41,7 @@ O objetivo do site é criar um espaço para compartilhar meu crescimento profiss
 
 ---
 
-Você pode acessar o site através deste link: [Inserir o link do portfólio].
+Você pode acessar o site através deste link: [https://challenge-portfolio-principal.vercel.app/].
 
 ---
 
